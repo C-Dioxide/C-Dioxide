@@ -1,6 +1,3 @@
-  <a href="http://twitter.com/suisei_kuhaku">
-    <img height="20" src="https://img.shields.io/twitter/follow/suisei_kuhaku?label=Twitter&logo=twitter&style=flat" />
-  </a>
 
 ![](https://raw.githubusercontent.com/C-Dioxide/C-Dioxide/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/C-Dioxide/C-Dioxide/main/profile-summary-card-output/nord_dark/3-stats.svg)
